@@ -1,4 +1,4 @@
-![MasterHead]([https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)](https://comixrevenge.files.wordpress.com/2018/06/1r3fn3.jpg)
+![MasterHead](https://comixrevenge.files.wordpress.com/2018/06/1r3fn3.jpg)
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A C# backend developer and begginer in mobile development starting to create my own ideas and apply to my problems</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
