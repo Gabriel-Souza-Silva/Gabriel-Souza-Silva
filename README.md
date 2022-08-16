@@ -7,11 +7,11 @@
 
 - 🤝 I’m looking for help with **Flutter, UI/UX**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gabriel-Souza-Silva?tab=repositories](https://github.com/Gabriel-Souza-Silva?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Gabriel-Souza-Silva?tab=repositories)
 
 - 💬 Ask me about **C#, .NET, Maybe Flutter and React/React Native, Javascript, C**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFJY3dglow/7u24AN27Af9eyq8h4IJ_6A/view?utm_content=DAFJY3dglow&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFJY3dglow/7u24AN27Af9eyq8h4IJ_6A/view?utm_content=DAFJY3dglow&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [in my CV](https://www.canva.com/design/DAFJY3dglow/7u24AN27Af9eyq8h4IJ_6A/view?utm_content=DAFJY3dglow&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **Sometimes I try to be a streamer in twitch, but this is just a hobby**
 
